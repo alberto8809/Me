@@ -45,7 +45,7 @@
         
         
           
-        </button>
+        
       </div>
       <div class="modal-body">
           <form class="form-horizontal" action="registro" method="post">
